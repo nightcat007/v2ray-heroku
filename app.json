@@ -13,7 +13,7 @@
 		{
 			"description": "V2Ray Serving URI/Path",
 			"value": "/"
-		},
+		}
 	},
 	"website": "https://ibcl.us/Heroku-V2Ray_20191014/",
 	"repository": "https://github.com/nightcat007/v2ray-heroku",
